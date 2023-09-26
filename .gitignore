@@ -19,7 +19,6 @@ examples/*/**/yarn.lock
 **/.yarn/*state*
 
 # Generated dirs
-dist
 .nuxt
 .nuxt-*
 .output
